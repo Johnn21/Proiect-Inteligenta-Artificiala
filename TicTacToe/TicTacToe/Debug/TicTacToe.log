@@ -1,0 +1,10 @@
+﻿  Source.cpp
+e:\ia_proiect\tictactoe\tictactoe\game.h(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\ia_proiect\tictactoe\tictactoe\game.h(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\ia_proiect\tictactoe\tictactoe\source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\ia_proiect\tictactoe\tictactoe\game.h(30): warning C4715: 'board::checkWhoStarts': not all control paths return a value
+e:\ia_proiect\tictactoe\tictactoe\game.h(257): warning C4715: 'checkRules::checkTheLines': not all control paths return a value
+e:\ia_proiect\tictactoe\tictactoe\game.h(331): warning C4715: 'checkRules::checkTheColumns': not all control paths return a value
+e:\ia_proiect\tictactoe\tictactoe\game.h(390): warning C4715: 'checkRules::checkTheDiagonalOne': not all control paths return a value
+e:\ia_proiect\tictactoe\tictactoe\game.h(456): warning C4715: 'checkRules::checkTheDiagonalTwo': not all control paths return a value
+  TicTacToe.vcxproj -> E:\IA_Proiect\TicTacToe\Debug\TicTacToe.exe
